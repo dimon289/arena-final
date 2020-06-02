@@ -1,0 +1,4 @@
+﻿  Arena.cpp
+D:\e-kreative\C++\project arena\Arena\Arena\Arena.cpp(268,6): warning C4101: dm: неиспользованная локальная переменная
+D:\e-kreative\C++\project arena\Arena\Arena\Arena.cpp(265,6): warning C4101: speed: неиспользованная локальная переменная
+  Arena.vcxproj -> D:\e-kreative\C++\project arena\Arena\Debug\Arena.exe
